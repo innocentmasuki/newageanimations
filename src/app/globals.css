@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  background: #d7fffe; background: -moz-linear-gradient(to bottom,  #d7fffe 0%,#fffeff 100%); background: -webkit-linear-gradient(to bottom,  #d7fffe 0%,#fffeff 100%); background: linear-gradient(to bottom,  #d7fffe 0%,#fffeff 100%);
+
+}
+
+.text-shadow{
+  text-shadow: 0 0 3px white;
+}
